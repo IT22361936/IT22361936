@@ -6,11 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=N-isith&theme=merko&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-isith&show_icons=true&locale=en&layout=compact" alt="n-isith" /></p>
 
 <!---
 IT22361936/IT22361936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
